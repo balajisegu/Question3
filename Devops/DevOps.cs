@@ -13,6 +13,8 @@ namespace Devops
             Console.WriteLine("Printing for the initial comment");
 
             Console.WriteLine("Change 1");
+
+            Console.WriteLine("Change 2");
         }
     }
 }
