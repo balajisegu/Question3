@@ -11,6 +11,8 @@ namespace Devops
         static void Main(string[] args)
         {
             Console.WriteLine("Printing for the initial comment");
+
+            Console.WriteLine("Change 1");
         }
     }
 }
